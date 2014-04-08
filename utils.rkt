@@ -1,5 +1,11 @@
 #lang racket
 (require gigls/unsafe)
+;;; File:
+;;;   utils.rkt
+;;; Author:
+;;;   Kim Bougher, but really Sam
+;;; Summary:
+;;;   A few sample utilities.
 ;;; Procedure:
 ;;;   nums
 ;;; Parameters:
