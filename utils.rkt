@@ -1,7 +1,7 @@
 #lang racket
 (require gigls/unsafe)
 ;;; File:
-;;;   utils.rkt
+;;;   gitgit/utils.rkt
 ;;; Author:
 ;;;   Kim Bougher, but really Sam
 ;;; Summary:
